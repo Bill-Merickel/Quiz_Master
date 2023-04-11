@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f37033091b0643b48dafb8a0baa7eef, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: Which of the following countries does not use the Euro?
+  answers:
+  - 
+  - 
+  - 
+  - 
+  correctAnswerIndex: 0

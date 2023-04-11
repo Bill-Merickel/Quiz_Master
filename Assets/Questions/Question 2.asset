@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f37033091b0643b48dafb8a0baa7eef, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Enter new question text here
+  question: How long is an Olympic swimming pool?
+  answers:
+  - 
+  - 
+  - 
+  - 
+  correctAnswerIndex: 0
