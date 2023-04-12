@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: How many bones do sharks have?
   answers:
-  - 
-  - 
-  - 
-  - 
+  - 0
+  - 10
+  - 50
+  - 100
   correctAnswerIndex: 0

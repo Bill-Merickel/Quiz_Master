@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Which of the following countries does not use the Euro?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - France
+  - Germany
+  - Belgium
+  - Switzerland
+  correctAnswerIndex: 3

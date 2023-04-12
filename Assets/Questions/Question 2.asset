@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: How long is an Olympic swimming pool?
   answers:
-  - 
-  - 
-  - 
-  - 
-  correctAnswerIndex: 0
+  - 10 meters
+  - 25 meters
+  - 50 meters
+  - 100 meters
+  correctAnswerIndex: 2
